@@ -1,0 +1,273 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgba(212, 201, 183, 0.959);
+}
+.first{
+    background-color:rgb(29, 78, 128);
+    color: rgb(255, 255, 255);
+    width: 90%;
+    height: 220px;
+    margin: auto;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 20px; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+.first h4{
+font-size: 15px;
+font-weight: 100;
+color: rgba(255, 255, 255, 0.63);
+}
+.first a{
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    margin: 15px 5px;
+    background-color:#2b5c8d ;  
+    padding: 10px 15px;
+    border-radius: 20px;
+}
+
+
+.second{
+    background-color: rgba(255, 255, 255, 0.349);
+    width: 90%;
+    height: 300px;
+    margin: auto;
+    border-radius: 20px;
+}
+.second h3{
+   color:  rgb(29, 78, 128);
+   padding-top: 30px;
+   padding-left: 30px;
+   font-size: 20px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: 700;
+}
+.second hr{
+    margin:  30px;
+}
+.second img{
+width: 15%;
+border-radius: 50%;
+float: left;
+margin: auto; 
+margin-left: 30px;
+}
+.second span{
+    color:rgb(29, 78, 128) ;
+}
+.second p{
+   margin-top: 30px;
+   margin-left:200px ;
+  font-size: 15px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+ .second a{
+    background-color:rgb(29, 78, 128);
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    width: 15%; 
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 5px;
+    padding: 15px 15px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+ }
+.clear{
+    clear: both;
+}
+
+
+
+.skills{
+background-color: rgba(241, 231, 231, 0.959);
+width: 90%;
+margin: auto;
+border-radius: 20px;
+height: 300px;
+padding: 15px 20px;
+margin-top: 20px;
+}
+.skills  h3{
+    margin-top: 10px;
+    margin-left: 10px;
+    color:rgb(29, 78, 128) ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.skills hr{
+    margin: 10px;
+}
+.skills .p1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 8px;
+    font-size: 14px;
+}
+.skills .language{
+background-color: rgb(233, 220, 220);
+width: 20%;
+float: left;
+margin: auto;
+text-align: center;
+border-radius: 10px;
+margin: 15px 20px;
+padding: 0px 5px;
+}
+.skills .language h5{
+    margin-right: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(29, 78, 128);
+    font-size: 15px;
+}
+.skills .language p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+}
+.clear{
+    clear: both;
+}
+
+
+.third{
+    background-color: white;
+    height: 640px;
+    width: 90%;
+    margin: auto;
+    border-radius: 20px;
+}
+.third hr{
+    margin: -10px 40px;
+}
+.third h3{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 30px;
+    margin-left: 40px;
+    color:rgb(29, 78, 128);
+}
+.exp-1{
+background-color: rgb(236, 227, 227);
+height: 230px;  
+width: 90%;  
+margin:30px auto;
+border-radius: 20px;
+border: 4px solid rgb(30, 91, 153);
+border-top: none;
+border-right: none;
+border-bottom: none; 
+}
+.exp-2{
+background-color: rgb(236, 227, 227);
+height: 230px;
+width: 90%;
+margin: auto;
+border-radius: 20px;
+border: 4px solid rgb(30, 91, 153);
+border-top: none;
+border-right: none;
+border-bottom: none; 
+}
+.exp-1 img{
+    width: 10%;
+    margin: 30px 30px;
+}
+.exp-2 img{
+    width: 10%;
+    margin: 30px 30px;
+}
+.exp-1 h4{
+    margin-left: 130px; 
+    margin-top: -100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.exp-2 h4{
+    margin-left: 130px; 
+    margin-top: -100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.exp-1 h5{
+    margin-left: 130px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(29, 78, 128);
+    font-size: 14px;
+}
+.exp-2 h5{
+    margin-left: 130px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(29, 78, 128);
+    font-size: 14px;
+}
+.exp-1 span{
+    margin-left: 130px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+}
+.exp-2 span{
+    margin-left: 130px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+}
+.exp-1 p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    margin: 30px 30px;
+}
+.exp-2 p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    margin: 30px 30px;
+}
+
+
+
+
+
+
+
+.fourth{
+   background-color: rgb(29, 78, 128);
+    width: 90%;
+    margin: auto;
+    height: 220px;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+.fourth h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(226, 229, 233);
+    padding-top: 25px;
+    margin-left: 25px;
+    font-size: 22px;
+}
+.fourth hr{
+    margin: 0px 25px;
+}
+.links p{
+    margin: 25px 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 15px;
+}
+.links a{
+    background-color: #3c78b4b2;
+    color: white;
+    text-decoration: none;
+    display: inline-block; 
+    margin-left: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 13px 13px;
+    font-size: 15px;
+    border-radius: 10px;
+}
