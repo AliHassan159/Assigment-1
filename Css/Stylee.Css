@@ -87,7 +87,7 @@ margin-left: 30px;
 
 
 
-.skills{
+#skills{
 background-color: rgba(241, 231, 231, 0.959);
 width: 90%;
 margin: auto;
@@ -96,21 +96,21 @@ height: 300px;
 padding: 15px 20px;
 margin-top: 20px;
 }
-.skills  h3{
+#skills  h3{
     margin-top: 10px;
     margin-left: 10px;
     color:rgb(29, 78, 128) ;
     font-family: Arial, Helvetica, sans-serif;
 }
-.skills hr{
+#skills hr{
     margin: 10px;
 }
-.skills .p1{
+#skills .p1{
     font-family: Arial, Helvetica, sans-serif;
     margin-left: 8px;
     font-size: 14px;
 }
-.skills .language{
+#skills .language{
 background-color: rgb(233, 220, 220);
 width: 20%;
 float: left;
@@ -120,13 +120,13 @@ border-radius: 10px;
 margin: 15px 20px;
 padding: 0px 5px;
 }
-.skills .language h5{
+#skills .language h5{
     margin-right: 100px;
     font-family: Arial, Helvetica, sans-serif;
     color:rgb(29, 78, 128);
     font-size: 15px;
 }
-.skills .language p{
+#skills .language p{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 13px;
     font-weight: 700;
